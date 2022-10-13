@@ -1,0 +1,16 @@
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\bin\Debug\medmedmed.exe.config
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\bin\Debug\medmedmed.exe
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\bin\Debug\medmedmed.pdb
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.csproj.AssemblyReference.cache
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.Form1.resources
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.Properties.Resources.resources
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.csproj.GenerateResource.cache
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.csproj.CoreCompileInputs.cache
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.exe
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.pdb
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.Form2.resources
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.Form3.resources
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.Form4.resources
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.Form5.resources
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.Form6.resources
+C:\Users\usersql\Desktop\ВСЁ\495495\medmedmed\obj\Debug\medmedmed.Form7.resources
